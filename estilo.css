@@ -1,0 +1,197 @@
+@charset "UTF-8";
+html {
+    background-color: #D9A496;
+}
+body {
+    background-color: #E5D5CD;
+    width: 980px;
+    margin: 0px auto 0px auto; 
+}
+header {
+    background-color:#F5B9AA;
+    margin: 20px;
+    padding: 5px 5px 5px 5px; 
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;    
+}
+nav {
+    margin: 20px;
+    padding: 1px 1px 1px 1px;
+    background-color: #F5B9AA;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+nav ul li {
+    display: inline;
+    margin: 6%;
+}
+h1 {
+    font-family: sans-serif;
+    text-align: center;  
+}
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+#article1 {
+    margin: 20px;
+    padding: 10px 10px 10px 10px;
+    background-color:#F5B9AA;
+    font-family: serif;
+    text-align: justify;
+    text-indent: 40px;
+}
+h5 {
+    font-family: sans-serif;
+    text-align: left;
+    padding: 10px 0px 0px 10px;
+}
+#aside1 {
+    margin: 20px;
+    background-color:#F5B9AA;
+    font-family: sans-serif;
+    text-align: center;
+}
+aside ul li {
+    display: inline-block;
+    margin: 0% 6% 0% 6%; 
+    padding: 0px 0px 10px 0px;
+    position: relative;
+    right: 20px;
+}
+h6 {
+    font-family: sans-serif;
+    text-align: left;
+    padding: 10px;
+}
+/*Página 2.0*/
+h3 {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 0px 0px 10px 0px;
+}
+#article2 {
+    margin: 20px;
+    padding: 10px 10px 10px 10px;
+    background-color: #F5B9AA;
+    text-align: justify;
+    text-indent: 40px;
+    position: relative;
+    float: left;
+    width: 610px;
+    position: relative;
+    bottom: 10px;
+}
+#livrosvest {
+   padding: 5px 5px 5px 5px; 
+   margin: auto auto auto auto;
+   position: relative;
+   bottom: 20px;
+   position: relative;
+   bottom: 10px;
+}
+
+#vestibular1 {
+    padding: 10px 10px 10px 10px;
+    background-color: #F5B9AA;
+    margin: 20px;
+    width: 250px;
+    position: relative;
+    float: right;
+    position: relative;
+    bottom: 10px;
+}
+
+h4 {
+    font-family: sans-serif;
+    text-align: center;
+}
+table, tr, td, th {
+    padding: 2px;
+    border: 1px solid black; 
+}
+table {
+    background-color: white;
+} 
+th {
+    font-family: sans-serif;
+}
+/*Página 3.0*/
+#articlelivros {
+    margin: 20px;
+    background-color:#F5B9AA;
+    text-indent: 40px;
+    padding: 10px 10px 10px 10px;
+    text-align: justify;
+    width: 638px;
+}
+#listadelivros {
+    text-align: left;
+    padding: 0px 0px 0px 10px;
+    font-size: 18px;
+}
+#menudois {
+    margin: 0px;
+    background-color: #F5B9AA;
+    width: 262px;
+    position: relative;
+    float: right;
+    right: 20px;
+    height: 395px;
+}
+#menudois ul li{
+    margin: 2%;
+    display: block;
+    font-family: sans-serif;
+}
+
+/*Página 4.0*/
+#sobre {
+    margin: 20px;
+    background-color: #F5B9AA;
+    padding: 10px 10px 10px 10px;
+    text-indent: 40px;
+    text-align: justify;
+}
+/*Página 5.0*/
+
+#contato {
+    padding: 10px 10px 10px 10px;
+    width: 50%;
+    margin: 0px 250px 0px 250px;
+    font-size: 15px;
+    background-color:#F5B9AA;  
+}
+form div label input {
+    width: 96.7%;
+}
+form div label textarea {
+    width: 98.5%;
+}
+#enter {
+    text-align: center;
+}
+/*Fim 5.0*/
+footer {
+    margin: 20px;
+    background-color:#F5B9AA;
+    font-family: sans-serif;
+    clear: both;
+}
+
+footer ul li {
+    display: inline-block;
+    margin: 1%;
+}
+#pfooter {
+    font-family: sans-serif;
+    padding: 0px 0px 10px 10px;
+}
+ul li a:hover{
+    color: white; /* cor da fonte */
+    background-color: #BF9184;
+    border-radius: 150px;
+    text-decoration: underline;
+    
+}
